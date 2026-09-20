@@ -1,0 +1,10 @@
+{
+  "description": "Allows coordinators and teachers to manage courses, view student stats and grades per course, and supports multiple teachers with assigned subjects.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
